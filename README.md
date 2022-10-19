@@ -1,2 +1,2 @@
 # websitebuild
-a portfolio showcasing projects/skills 
+a portfolio showcasing my cs projects/skills 
